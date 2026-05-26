@@ -3,6 +3,7 @@
 [Momina29311](https://github.com/Momina29311)
 [Saurabh](https://github.com/[init4saurabh])
 Divyanshu Rana
+[sakshi jha]([https://github.com/saakshi1jha])
 - [SwatiManjari]
 -[Chaitanya Bargaje](https://github.com/chaitanyabuilds)
 -[Niraj kumar](https://github.com/NirajS2118)
@@ -1275,3 +1276,4 @@ Zarasalim
 - [Ritusree Das](https://github.com/ritusree-d)
 - [wup666](https://github.com/wup666)
 - [huweiqin747](https://github.com/huweiqin747)
+- [Sakshi Jha](https://github.com/CygnusAzuri)
