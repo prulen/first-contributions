@@ -51,6 +51,7 @@ Divyanshu Rana
 - [Haarsh](https://github.com/haarshaacharya)
 - [Archisha Gupta](https://github.com/archisha20)
 - [Samprit](https://2025-portfolio-teal-three.vercel.app/)
+- [Ali](https://github.com/alifarabi)
 - [Mostafa](https://github.com/Mostafa-Shariare)
 - [Aakriti Arya](https://aakriti-arya-portfolio.vercel.app)
 - [Anand Yadav](https://github.com/Anandyadav04)
@@ -122,6 +123,7 @@ Divyanshu Rana
 - [Avanish yadav](https://github.com/Avanish-Yadav)
 - [Navomy Mariya Alex](https://github.com/)
 - [Ori_Gonen](https://github.com/cjk7ghh789-hub/first-contributions.git)
+- [Abdullah bin Amin](https://github.com/AbdullahbinAmin)
 - [zerobruhman](https://github.com/zerobruhman)
 - Divo changed this to add his name
 - [Dotify_71](https://github.com/Dotify_71)
@@ -1272,3 +1274,4 @@ Zarasalim
 - [Anwesha Singh](https://github.com/gungun2703)
 - [Ritusree Das](https://github.com/ritusree-d)
 - [wup666](https://github.com/wup666)
+- [huweiqin747](https://github.com/huweiqin747)
